@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/qanx-portfolio/static/css/main.2c8e5562.css",
-    "main.js": "/qanx-portfolio/static/js/main.efeca71d.js",
+    "main.js": "/qanx-portfolio/static/js/main.6d974184.js",
     "static/media/hero.png": "/qanx-portfolio/static/media/hero.89515a25596dcff85592.png",
     "static/media/Untitled.png": "/qanx-portfolio/static/media/Untitled.e80ea7f6041537be34eb.png",
     "index.html": "/qanx-portfolio/index.html",
     "main.2c8e5562.css.map": "/qanx-portfolio/static/css/main.2c8e5562.css.map",
-    "main.efeca71d.js.map": "/qanx-portfolio/static/js/main.efeca71d.js.map"
+    "main.6d974184.js.map": "/qanx-portfolio/static/js/main.6d974184.js.map"
   },
   "entrypoints": [
     "static/css/main.2c8e5562.css",
-    "static/js/main.efeca71d.js"
+    "static/js/main.6d974184.js"
   ]
 }
